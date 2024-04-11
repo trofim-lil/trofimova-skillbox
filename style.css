@@ -443,7 +443,7 @@ footer {
   bottom: 0;
   width: 12px;
   height: 12px;
-  background-image: url('../img/radio.svg');
+  background-image: url('img/radio.svg');
   background-position: center;
   background-repeat: no-repeat;
   -webkit-transform: translateY(-50%);
