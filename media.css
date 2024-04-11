@@ -93,7 +93,7 @@
   }
 
   .hero {
-    background-image: url('../img/hero-1024.jpg');
+    background-image: url('img/hero-1024.jpg');
   }
 
   .hero__container {
@@ -114,7 +114,7 @@
   }
 
   .gallery {
-    background-image: url('../img/gallery-1024.jpg');
+    background-image: url('img/gallery-1024.jpg');
   }
 
   .gallery__container {
@@ -241,7 +241,7 @@
   }
 
   .hero {
-    background-image: url('../img/hero-768.jpg');
+    background-image: url('img/hero-768.jpg');
   }
 
   .hero__container {
@@ -258,7 +258,7 @@
   }
 
   .gallery {
-    background-image: url('../img/gallery-768.jpg');
+    background-image: url('img/gallery-768.jpg');
   }
 
   .gallery__list {
@@ -405,7 +405,7 @@
   }
 
   .hero {
-    background-image: url('../img/hero-320.jpg');
+    background-image: url('img/hero-320.jpg');
     /* background-position: center; */
   }
 
@@ -504,7 +504,7 @@
   }
 
   .gallery {
-    background-image: url('../img/gallery-320.jpg');
+    background-image: url('img/gallery-320.jpg');
   }
 
   .gallery__container {
