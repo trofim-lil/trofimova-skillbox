@@ -276,7 +276,7 @@ footer {
 /* hero */
 
 .hero {
-  background-image: url('../img/hero-background.jpg');
+  background-image: url('img/hero-background.jpg');
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
@@ -363,7 +363,7 @@ footer {
 /* gallery */
 
 .gallery {
-  background-image: url('../img/gallery-background.jpg');
+  background-image: url('img/gallery-background.jpg');
 }
 
 .gallery__container {
