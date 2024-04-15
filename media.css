@@ -38,7 +38,7 @@
     gap: 0;
   }
 
-  .header__left {
+  .header__logo {
     margin-bottom: 26px;
   }
 
@@ -177,8 +177,12 @@
     margin-bottom: 4px;
   }
 
+  .blog-preview__descr {
+    margin-bottom: 22px;
+  }
+
   .blog-preview__content {
-    padding: 10px 34px;
+    padding: 14px 34px;
     padding-bottom: 52px;
   }
 
@@ -288,6 +292,10 @@
     width: 100%;
   }
 
+  .events__list {
+    gap: 29px;
+  }
+
   .blog-preview__content {
     min-height: 328px;
   }
@@ -304,8 +312,12 @@
     margin-bottom: 14px;
   }
 
+  .blog-preview__descr {
+    margin-bottom: 56px;
+  }
+
   .events__container {
-    padding-bottom: 76px;
+    padding-bottom: 80px;
   }
 
   .projects__title {
@@ -443,7 +455,7 @@
     gap: 25px;
   }
 
-  .header__left {
+  .header__logo {
     margin-bottom: 9px;
   }
 
@@ -569,8 +581,8 @@
   }
 
   .blog-preview__content {
-    padding: 14px 23px;
-    padding-bottom: 55px;
+    padding: 17px 23px;
+    padding-bottom: 51px;
     padding-right: 18px;
     min-height: 483px;
   }
@@ -586,16 +598,20 @@
     margin-bottom: 9px;
   }
 
+  .blog-preview__descr {
+    margin-bottom: 46px;
+  }
+
   .blog-preview__link {
     margin-left: 6px;
   }
 
   .events__list {
-    gap: 16px;
+    gap: 20px;
   }
 
   .events__container {
-    padding-bottom: 47px;
+    padding-bottom: 49px;
   }
 
   .projects__title {
